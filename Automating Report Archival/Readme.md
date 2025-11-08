@@ -83,8 +83,6 @@ Both notebooks can be scheduled in Fabric Notebook Jobs for full automation.
 ## 📅 Scheduling Recommendation
 
 - **Frequency:** Weekly or Monthly  
-- **Sequence:** Run *Archive Notebook* → after retention → *Cleanup Notebook*  
-- **Logging:** Keep all activity tables in a Fabric Lakehouse for traceability  
 
 ---
 
